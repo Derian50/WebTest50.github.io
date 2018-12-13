@@ -1,0 +1,19 @@
+.container-fluid{
+    margin-top: 100vh;
+}
+}
+input{
+    display: inline;
+}
+p{
+    display: inline;
+    font-family: "Verdana", sans-serif;
+    font-size: 13pt;
+}
+h2 , h1{
+    font-family: "Verdana", sans-serif;
+    text-align: center;
+}
+.background{
+background: url(../img/sosi.png) repeat #fff;
+}
