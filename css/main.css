@@ -1,26 +1,26 @@
 .container-fluid{
-    margin-top: 100vh;
+	margin-top: 100vh;
 }
 }
 input{
-    display: inline;
+	display: inline;
 }
 p{
 	margin: 2vw;
-    display: inline-block;
-    font-family: "Verdana", sans-serif;
-    font-size: 2vh;
+	display: inline-block;
+	font-family: "Verdana", sans-serif;
+	font-size: 2vh;
 }
 h2{
 	margin-top: 2vw;
 	font-size: 4vh;
-    font-family: "Verdana", sans-serif;
-    text-align: center;
+	font-family: "Verdana", sans-serif;
+	text-align: center;
 }
 h1{
 	font-size: 5vh;
-    font-family: "Verdana", sans-serif;
-    text-align: center;
+	font-family: "Verdana", sans-serif;
+	text-align: center;
 }
 .background{
 background: url(../img/sosi.png) repeat #fff;
