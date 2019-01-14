@@ -155,8 +155,8 @@ function fireRight(){
 //чекаем координаты мыши и нажимаем таким образом на кнопочки
 canvas.addEventListener('click', getClickXY, false);
 function getClickXY(event){
-    var x = event.clientX;
-    var y = event.clientY;
+    var x = event.pageX;
+    var y = event.pageY;
     console.log(x, y);
     if(!Fight && x > 332 && x < 378 && y > 64 && y < 103 && PowerScore_robot_1 >= 1 && HP_robot_1 < 19){
     	PowerScore_robot_1--;
