@@ -23,7 +23,7 @@ imgButtonFirstWin.src = 'img/FirstWin.png';
 var imgButtonSecondWin = new Image();
 imgButtonSecondWin.src = 'img/SecondWin.png';
 var imgButtonTie = new Image();
-imgButtonTie.src = 'img/Tie.png';
+imgButtonTie.src = 'img/tie.png';
 
 
 	/*	x = 20;
